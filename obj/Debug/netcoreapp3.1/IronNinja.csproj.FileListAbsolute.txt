@@ -1,0 +1,13 @@
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\OOPWithCSharp\IronNinja\bin\Debug\netcoreapp3.1\IronNinja.exe
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\OOPWithCSharp\IronNinja\bin\Debug\netcoreapp3.1\IronNinja.deps.json
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\OOPWithCSharp\IronNinja\bin\Debug\netcoreapp3.1\IronNinja.runtimeconfig.json
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\OOPWithCSharp\IronNinja\bin\Debug\netcoreapp3.1\IronNinja.runtimeconfig.dev.json
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\OOPWithCSharp\IronNinja\bin\Debug\netcoreapp3.1\IronNinja.dll
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\OOPWithCSharp\IronNinja\bin\Debug\netcoreapp3.1\IronNinja.pdb
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\OOPWithCSharp\IronNinja\obj\Debug\netcoreapp3.1\IronNinja.csprojAssemblyReference.cache
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\OOPWithCSharp\IronNinja\obj\Debug\netcoreapp3.1\IronNinja.AssemblyInfoInputs.cache
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\OOPWithCSharp\IronNinja\obj\Debug\netcoreapp3.1\IronNinja.AssemblyInfo.cs
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\OOPWithCSharp\IronNinja\obj\Debug\netcoreapp3.1\IronNinja.csproj.CoreCompileInputs.cache
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\OOPWithCSharp\IronNinja\obj\Debug\netcoreapp3.1\IronNinja.dll
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\OOPWithCSharp\IronNinja\obj\Debug\netcoreapp3.1\IronNinja.pdb
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\OOPWithCSharp\IronNinja\obj\Debug\netcoreapp3.1\IronNinja.genruntimeconfig.cache
